@@ -1,0 +1,9 @@
+# Project Directory
+
+This folder contains the following:
+
+1. **Saved Model:**
+    - Pre-trained model for emotion detection.
+
+2. **app.py:**
+    - Script for live emotion detection using Haar Cascade and OpenCV.
